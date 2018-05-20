@@ -1,6 +1,6 @@
 This is the story of learning git
-First chapter
-second chapter
+Chapter 1
+Chapter 2
 paragraph 1
 third chapter
 paragraph 2
