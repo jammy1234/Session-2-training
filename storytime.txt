@@ -1,0 +1,5 @@
+This is the story of learning git
+First chapter
+second chapter
+third chapter
+fourth chapter
